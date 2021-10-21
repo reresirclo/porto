@@ -14,28 +14,35 @@
 
 <body>
     <?php
-    include_once './layout/navbar.php';
+    include_once '../layout/navbar.php';
     ?>
     <div class="container py-3">
-        <h1>Team</h1>
-        <hr>
-        <div class="row row-cols-1 row-cols-md-4 g-4">
-            <div class="col">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Rere</h5>
-                        <p class="card-text">Software Engineer</p>
-                        <a href="/detail/rere.php" class="btn btn-primary stretched-link">Detail</a>
-                    </div>
-                </div>
+        <div>
+            <h1>Detail</h1>
+            <hr>
+            <div>
+                <h5>Developer 2 (Nama Panggilan)</h5>
+                <h5>Jabatan</h5>
             </div>
-            <div class="col">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Developer 2</h5>
-                        <p class="card-text">Software Engineer</p>
-                        <a href="/detail/example.php" class="btn btn-primary stretched-link">Detail</a>
-                    </div>
+        </div>
+        <div>
+            <h1>Porto</h1>
+            <hr>
+            <div>
+                <div>
+                    <span class="fw-bold fs-5">Git</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">OOP</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">JS</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">PHP</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">Magneto</span> 4/5
                 </div>
             </div>
         </div>
