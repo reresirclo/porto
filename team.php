@@ -72,6 +72,7 @@
                         <p class="card-text">Junior Software Engineer</p>
                         <a href="/detail/mahfuzan.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
+                </div>
             </div>
             <div class="col">
                 <div class="card">      
