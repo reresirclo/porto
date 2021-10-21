@@ -21,8 +21,8 @@
             <h1>Detail</h1>
             <hr>
             <div>
-                <h5>Sasono</h5>
-                <h5>Senior Software Engineer</h5>
+                <h5>Dedi Ananto (Anan)</h5>
+                <h5>Software Engineer</h5>
             </div>
         </div>
         <div>
@@ -36,13 +36,22 @@
                     <span class="fw-bold fs-5">OOP</span> 4/5
                 </div>
                 <div>
-                    <span class="fw-bold fs-5">JS</span> 4/5
-                </div>
-                <div>
                     <span class="fw-bold fs-5">PHP</span> 4/5
                 </div>
                 <div>
-                    <span class="fw-bold fs-5">Magneto</span> 4/5
+                    <span class="fw-bold fs-5">JS</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">Vue</span> 3/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">ReactJS</span> 3/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">Python</span> 3/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">Magneto</span> 1/5
                 </div>
             </div>
         </div>

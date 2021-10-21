@@ -14,14 +14,39 @@
 
 <body>
     <?php
-    include_once('./layout/navbar.php');
+    include_once '../layout/navbar.php';
     ?>
     <div class="container py-3">
-        <h1>Hello</h1>
-    </div>
-        <div class="container py-3">
-            <h1>Hello</h1>
+        <div>
+            <h1>Detail</h1>
+            <hr>
+            <div>
+                <h5>Mahfuzan Hadi Wicaksono (Didi)</h5>
+                <h5>Junior Software Engineer</h5>
+            </div>
         </div>
+        <div>
+            <h1>Porto</h1>
+            <hr>
+            <div>
+                <div>
+                    <span class="fw-bold fs-5">Git</span> 3/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">OOP</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">JS</span> 3/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">PHP</span> 4/5
+                </div>
+                <div>
+                    <span class="fw-bold fs-5">Magento</span> 1/5
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
