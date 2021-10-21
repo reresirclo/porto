@@ -42,7 +42,7 @@
                     <span class="fw-bold fs-5">PHP</span> 4/5
                 </div>
                 <div>
-                    <span class="fw-bold fs-5">Magneto</span> 4/5
+                    <span class="fw-bold fs-5">Magneto</span> 3/5
                 </div>
             </div>
         </div>
