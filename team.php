@@ -38,6 +38,15 @@
                     </div>
                 </div>
             </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Gallih Armada</h5>
+                        <p class="card-text">Backend</p>
+                        <a href="/detail/gallih.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
