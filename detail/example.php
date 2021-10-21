@@ -21,8 +21,8 @@
             <h1>Detail</h1>
             <hr>
             <div>
-                <h5>Developer 2 (Nama Panggilan)</h5>
-                <h5>Jabatan</h5>
+                <h5>Sasono</h5>
+                <h5>Senior Software Engineer</h5>
             </div>
         </div>
         <div>
