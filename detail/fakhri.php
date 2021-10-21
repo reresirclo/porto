@@ -22,7 +22,7 @@
             <hr>
             <div>
                 <h5>Fakhri Rizha Ananda (Fakhri)</h5>
-                <h5>Junior Software Engineer - Frontend</h5>
+                <h5>Junior Software Engineer</h5>
             </div>
         </div>
         <div>
