@@ -56,6 +56,13 @@
                     </div>
                 </div>
             </div>
+            <div class="col">
+                <div class="card-body">
+                    <h5 class="card-title">Bryan</h5>
+                    <p class="card-text">Junior Software Engineer</p>
+                    <a href="/detail/bryan.php" class="btn btn-primary stretched-link">Detail</a>
+                </div>
+            </div>
         </div>
     </div>
 </body>
