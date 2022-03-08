@@ -162,6 +162,15 @@
                     </div>
                 </div>
             </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Muhammad Izzah</h5>
+                        <p class="card-text">Backend Engineer</p>
+                        <a href="/detail/izzah.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
