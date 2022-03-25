@@ -203,7 +203,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Yuma Gunawan</h5>
                         <p class="card-text">Engineer Trainee</p>
-                        <a href="/detail/rere.php" class="btn btn-primary stretched-link">Detail</a>
+                        <a href="/detail/yuwan.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
                 </div>
             </div>
