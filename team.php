@@ -27,7 +27,15 @@
         <h1>Team</h1>
         <hr>
         <div class="row row-cols-1 row-cols-md-4 g-4">
-            
+        <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Rere</h5>
+                        <p class="card-text">Software Engineer</p>
+                        <a href="/detail/rere.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
                         <div class="col">
                             <div class="card">
                                 <div class="card-body">
@@ -185,12 +193,13 @@
             <div class="col">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Rere</h5>
-                        <p class="card-text">Software Engineer</p>
-                        <a href="/detail/rere.php" class="btn btn-primary stretched-link">Detail</a>
+                        <h5 class="card-title">Anggiawan Prasetyo</h5>
+                        <p class="card-text">Engineer Trainee</p>
+                        <a href="/detail/sukmana.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </body>
