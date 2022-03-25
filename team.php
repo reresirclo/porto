@@ -189,6 +189,15 @@
                     </div>
                 </div>
             </div>
+	    <div class="col">
+		<div class="card">
+		    <div class="card-body">
+			<h5 class="card-title">Yasin</5>
+			<p class="card-text">Cloud Engineer a.k.a Pawang Hujan</p>
+			<a href="/detail/sukmana.php" class="btn btn-primary stretched-link">Detail</a>
+		    </div>
+		</div>
+	    </div>
         </div>
     </div>
 </body>
