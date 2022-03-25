@@ -194,7 +194,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Devina</h5>
                         <p class="card-text">Software Engineer</p>
-                        <a href="/detail/sukmana.php" class="btn btn-primary stretched-link">Detail</a>
+                        <a href="/detail/devina.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
                 </div>
             </div>
