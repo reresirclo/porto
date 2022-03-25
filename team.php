@@ -24,7 +24,7 @@
     include_once './layout/navbar.php';
     ?>
     <div class="container py-3">
-        <h1>Team</h1>
+        <h1>Manage Team</h1>
         <hr>
         <div class="row row-cols-1 row-cols-md-4 g-4">
             <div class="col">
