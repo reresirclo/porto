@@ -174,7 +174,7 @@
             <div class="col">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Rere</h5>
+                        <h5 class="card-title">Daffa D D</h5>
                         <p class="card-text">Software Engineer</p>
                         <a href="/detail/rere.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
