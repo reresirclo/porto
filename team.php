@@ -198,6 +198,15 @@
                     </div>
                 </div>
             </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Rendi Icube</h5>
+                        <p class="card-text">Engineer Traine</p>
+                        <a href="/detail/rendi.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
