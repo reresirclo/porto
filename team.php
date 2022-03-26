@@ -221,7 +221,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Reyke Syalramadhan</h5>
                         <p class="card-text">Engineer Trainee</p>
-                        <a href="/detail/bayu.php" class="btn btn-primary stretched-link">Detail</a>
+                        <a href="/detail/reysyal.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
                 </div>
             </div>
