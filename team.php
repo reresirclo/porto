@@ -225,6 +225,15 @@
                     </div>
                 </div>
             </div> 
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Dian Asih</h5>
+                        <p class="card-text">Software Engineer</p>
+                        <a href="/detail/dian.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
