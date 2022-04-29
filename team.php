@@ -27,15 +27,15 @@
         <h1>Team</h1>
         <hr>
         <div class="row row-cols-1 row-cols-md-4 g-4">
-                        <div class="col">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Sasono</h5>
-                                    <p class="card-text">Senior Software Engineer</p>
-                                    <a href="/detail/sasono.php" class="btn btn-primary stretched-link">Detail</a>
-                                </div>
-                            </div>
-                        </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Sasono</h5>
+                        <p class="card-text">Senior Software Engineer</p>
+                        <a href="/detail/sasono.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
             <div class="col">
                 <div class="card">
                     <div class="card-body">
@@ -229,6 +229,15 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Fahmi Amiruddin Nafi</h5>
+                        <p class="card-text">Associate Software Engineer</p>
+                        <a href="/detail/fahmi.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Anarya Indika Putra</h5>
                         <p class="card-text">Associate Software Engineer</p>
                         <a href="/detail/fahmi.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
