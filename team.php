@@ -234,6 +234,15 @@
                     </div>
                 </div>
             </div> 
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Ridho</h5>
+                        <p class="card-text">Associate Software Engineer</p>
+                        <a href="/detail/fahmi.php" class="btn btn-primary stretched-link">Detail</a>
+                    </div>
+                </div>
+            </div> 
         </div>
     </div>
 </body>
