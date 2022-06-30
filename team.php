@@ -228,8 +228,8 @@
             <div class="col">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Fahmi Amiruddin Nafi</h5>
-                        <p class="card-text">Associate Software Engineer</p>
+                        <h5 class="card-title">Zati Hulwaniii</h5>
+                        <p class="card-text">Junior Quality Assurance Engineer</p>
                         <a href="/detail/fahmi.php" class="btn btn-primary stretched-link">Detail</a>
                     </div>
                 </div>
